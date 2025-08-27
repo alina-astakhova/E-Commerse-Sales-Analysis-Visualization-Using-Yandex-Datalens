@@ -12,3 +12,6 @@ Jupiter Notebook<br>
 Python (Pandas, Matplotlib.pyplot, Seaborn)<br>
 PostgreSQL<br>
 Yandex Datalens
+
+### Link to the Final Dashboard
+https://datalens.yandex/au1nww45pq7ww
