@@ -9,6 +9,6 @@ This project is the practice part of the course available by . It uses synthetic
 
 ### Tools
 Jupiter Notebook<br>
-Python (Pandas, Matplotlib.pyplot, Seaborn)
-PostgreSQL
+Python (Pandas, Matplotlib.pyplot, Seaborn)<br>
+PostgreSQL<br>
 Yandex Datalens
