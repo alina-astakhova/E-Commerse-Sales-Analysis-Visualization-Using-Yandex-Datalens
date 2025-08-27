@@ -6,7 +6,7 @@ A study project using synthetic data on sales on a marketlplace
 ### Data Sources
 
 ### Tools
-Jupiter Notebook
+Jupiter Notebook<br>
 Python (Pandas, Matplotlib.pyplot, Seaborn)
-Postgres SQL
+PostgreSQL
 Yandex Datalens
